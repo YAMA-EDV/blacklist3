@@ -75,3 +75,7 @@ dz2fz0bgyq9tn.cloudfront.net
 adserver-us.adtech.advertising.com
 www.chegg.com
 cdn-5.excelarticles.com
+#Added 5/24/2018#
+#Blocking Stage 2 of VPNFilter-Bot
+toknowall.com
+api.ipify.org
